@@ -1,4 +1,4 @@
-# peachypastries2
+# foodway (formerly PeachPastries)
 
 A new Flutter project.
 
