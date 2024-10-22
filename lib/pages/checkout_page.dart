@@ -36,7 +36,7 @@ class _CheckOutPageState extends State<CheckOutPage> {
   bool inFoPage = false;
 
   //real
- var publicKey = 'pk_live_79cfe5b4d69c8d90982ea316d77397ffa4c059d7';
+ var publicKey = '';
   //test
  //var publicKey = 'pk_test_55e328c4e63fb8b883db8904cb79eb5fad5e529a';
  // final plugin = PaystackPlugin();
