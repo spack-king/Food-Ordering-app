@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106773651198",
+    "project_id": "peachypastries-d99ad",
+    "storage_bucket": "peachypastries-d99ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106773651198:android:d6c19d481601558f2fcfaf",
+        "android_client_info": {
+          "package_name": "com.amaka.peachypastries2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSlvKnhdOW9ieCb5hlYLU2eyPBrbqMUSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

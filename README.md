@@ -1,2 +1,16 @@
-# Food-Ordering-app
-FoodWay is a user-friendly food ordering platform that connects customers with their favorite local restaurants. With a diverse selection of cuisines, intuitive search options, and customizable meal choices, FoodWay makes it easy to satisfy any craving. Users can enjoy seamless online ordering, real-time tracking of their deliveries, and exclusive deals from participating eateries. Whether dining in or on the go, FoodWay enhances the food experience, ensuring delicious meals are just a few clicks away.
+# peachypastries2
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
